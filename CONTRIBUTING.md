@@ -1,10 +1,10 @@
-# Contributing to [skuld](https://github.com/hackirby/skuld)
+# Contributing to [B1inkZK](https://github.com/B1inkZK/BlinkZKX)
 
 ## Feature Requests
 
 A feature request is a request for a new feature or an enhancement to an existing feature. 
 
-Generally features are requested through the use of the [feature request template](https://github.com/hackirby/skuld/blob/main/.github/ISSUE_TEMPLATE/feature_request.md).
+Generally features are requested through the use of the [feature request template](https://github.com/B1inkZK/BlinkZKX/blob/main/.github/ISSUE_TEMPLATE/feature_request.md).
 
 Ensure you do not create a duplicate feature request by searching through the existing feature requests.
 
@@ -16,7 +16,7 @@ Note that feature requests are not guaranteed to be implemented.
 
 A bug report is a report of a bug or issue in the software.
 
-Generally bugs are reported through the use of the [bug report template](https://github.com/hackirby/skuld/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
+Generally bugs are reported through the use of the [bug report template](https://github.com/B1inkZK/BlinkZKX/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
 
 Ensure you do not create a duplicate bug report by searching through the existing bug reports.
 
@@ -35,7 +35,7 @@ Please make sure to include as much information as possible in your bug report. 
 
 A pull request is a request to add your own code to the project therefore solving an issue or adding a feature.
 
-Generally pull requests are submitted through the use of the [pull request template](https://github.com/hackirby/skuld/blob/main/.github/pull_request_template.md).
+Generally pull requests are submitted through the use of the [pull request template](https://github.com/B1inkZK/BlinkZKX/blob/main/.github/pull_request_template.md).
 
 Please ensure your pull request adheres to the following guidelines:
 - It does not break existing functionality
